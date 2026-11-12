@@ -1,0 +1,6 @@
+desktop.ini
+.env
+__pycache__/
+*.py[cod]
+# Refer�ncias locais
+_references/
